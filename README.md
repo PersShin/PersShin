@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Ryan Shin. I'm studying Data Science.
-##Here are my skills
+Here are my skills
 <br/>
 
 **SKILLS**
