@@ -8,5 +8,5 @@
 
   🎓 고려대학교(세종) 인공지능사이버보안 졸업                                                             
   🔎  고려대학교 석박사과정 진행중
- 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PersShins&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+
+<img align="right"(https://github-readme-stats.vercel.app/api?username=PersShins&show_icons=true&theme=dark)>
