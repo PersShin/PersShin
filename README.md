@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=<perspective>&fontSize=90&animation=fadeIn" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
 
 ### Hi there 👋
 ### I'm Ryan Shin. I'm studying Data Science.
