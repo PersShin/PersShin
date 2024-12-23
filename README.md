@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=<perspective>&fontSize=90&animation=fadeIn" />
+
 ### Hi there 👋
 ### I'm Ryan Shin. I'm studying Data Science.
 Here are my skills
@@ -17,5 +19,4 @@ Here are my skills
 <!--
 **PersShin/PersShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=<perspective>&fontSize=90&animation=fadeIn" />
 
